@@ -1,0 +1,88 @@
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Skola.exe.config
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Skola.exe
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Skola.pdb
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\FluentNHibernate.dll
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Iesi.Collections.dll
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\NHibernate.dll
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\FluentNHibernate.pdb
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\FluentNHibernate.xml
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Iesi.Collections.xml
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\NHibernate.xml
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.csprojAssemblyReference.cache
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.AngazmanNastavnikaForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.AzuriranjeAngazmanaForm.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajNeNastavnoLiceForm.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajPredmet.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajRadUDrugojSkoliForm.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajSmerForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajStarateljaForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajUcenikaForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DrugeSkoleForm.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.Form1.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.IzmeniPredmet.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.IzmeniUcenikaForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.NastavnoLiceDodajForm.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.NastavnoLiceUpdateForm.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.NastavnaLicaForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.NeNastavnaLicaForm.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.OcenaForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.PocetnaStranica.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.PredmetiForm.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.PredmetiForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.Properties.Resources.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.RadUDrugiSkolamaForm.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.SmeroviForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.UceniciForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.UnosOceneForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.UpdateSmer.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.ZaposleniForma.resources
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.csproj.GenerateResource.cache
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.csproj.CoreCompileInputs.cache
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.csproj.CopyComplete
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.exe
+C:\Users\Savke\Desktop\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.pdb
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Skola.exe.config
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Skola.exe
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Skola.pdb
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\FluentNHibernate.dll
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Iesi.Collections.dll
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\NHibernate.dll
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\FluentNHibernate.pdb
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\FluentNHibernate.xml
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\Iesi.Collections.xml
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\bin\Debug\NHibernate.xml
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.csprojAssemblyReference.cache
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.AngazmanNastavnikaForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.AzuriranjeAngazmanaForm.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajNeNastavnoLiceForm.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajPredmet.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajRadUDrugojSkoliForm.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajSmerForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajStarateljaForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DodajUcenikaForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.DrugeSkoleForm.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.Form1.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.IzmeniPredmet.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.IzmeniUcenikaForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.NastavnoLiceDodajForm.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.NastavnoLiceUpdateForm.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.NastavnaLicaForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.NeNastavnaLicaForm.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.OcenaForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.PocetnaStranica.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.PredmetiForm.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.PredmetiForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.Properties.Resources.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.RadUDrugiSkolamaForm.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.SmeroviForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.UceniciForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.UnosOceneForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.UpdateSmer.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.ZaposleniForma.resources
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.csproj.GenerateResource.cache
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.csproj.CoreCompileInputs.cache
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.csproj.CopyComplete
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.exe
+C:\Users\Savke\Downloads\Sve sa Starog HDD\Sistemi Baza Podataka\SBPprojekti\TreciDomaciZadatak\TreciDomaciZadatak\TreciDomaciZadatak\Skola\Skola\obj\x86\Debug\Skola.pdb
